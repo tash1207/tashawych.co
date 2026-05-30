@@ -1,0 +1,61 @@
+@import url(http://fonts.googleapis.com/css?family=Life+Savers);
+@import url(http://fonts.googleapis.com/css?family=Gilda+Display);
+
+.app_header {
+  margin-bottom: 0;
+}
+
+.app_logo {
+  border: 1px solid lightGray;
+  width: 100px;
+}
+
+.app_screenshot {
+  border: 4px ridge white;
+  box-shadow: 4px 4px 8px 2px lightGray;
+  max-height: 480px;
+  max-width: 550px;
+  margin: 5px;
+}
+
+img.avatar {
+  height: 256px;
+  width: 256px;
+}
+
+.hidden_link,
+.hidden_link a {
+  color: black;
+  cursor: default;
+}
+
+.professional_link {
+  margin: 5px;
+  max-height: 30px;
+}
+
+.snapoftheday {
+  max-height: 600px;
+  max-width: 800px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Life Savers', cursive;
+  font-size: 30px;
+  line-height: 1.8em;
+}
+
+h2 {
+  font-family: 'Gilda Display', fantasy;
+  font-size: 24px;
+  line-height: 1.6em;
+}
+
+body {
+  text-align: center;
+}
+
